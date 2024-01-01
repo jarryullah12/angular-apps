@@ -1,0 +1,9 @@
+//to start application
+ng start
+//to signin
+phone number is email
+//delete account or logout from inspect-> application-> localstorage
+//video
+Ecommerce Application In Angular From Scratch _ Angular Project _ angular tutorial for beginners
+//api
+https://freeapi.miniprojectideas.com/index.html
